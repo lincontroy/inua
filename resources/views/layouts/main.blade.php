@@ -60,7 +60,7 @@
                                         
                                     </li> 
                                     <li class="nav-item dropdown">
-                                        <a class="nav-link " href="#about" > About us </a>
+                                        <a class="nav-link " href="#about"> About us </a>
                                        
                                     </li> 
                                     <li class="nav-item">
@@ -104,11 +104,11 @@
                         <button type="button" class="close-icon d-md-none ms-auto" data-bs-dismiss="offcanvas" aria-label="Close"><i class="bi bi-x"></i></button>
                         <ul class="custom-nevbar__nav mb-lg-0">
                             <li class="menu_item dropdown">
-                                <a class="menu_link dropdown-toggle" href="/" role="button" data-bs-toggle="dropdown" aria-expanded="false"> Home </a>
+                                <a class="menu_link dropdown-toggle" href="/" > Home </a>
                                
                             </li>
                             <li class="menu_item dropdown">
-                                <a class="menu_link dropdown-toggle" href="/#bout" role="button" data-bs-toggle="dropdown" aria-expanded="false"> Abouts us </a>
+                                <a class="menu_link dropdown-toggle" href="/#bout"> Abouts us </a>
                                
                             </li>
                             <li class="menu_item">
