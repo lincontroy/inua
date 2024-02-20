@@ -47,7 +47,7 @@
             <div class="row">
                 <div class="col-12">
                     <nav class="navbar navbar-expand-xl nav-shadow" id="#navbar">
-                        <a class="navbar-brand" href="index.html"><img src="assets/images/logo2.png" class="logo" alt="logo"></a>
+                        <a class="navbar-brand" href="/"><img src="assets/images/logo2.png" class="logo" alt="logo"></a>
                         <a class="navbar-toggler" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight">
                             <i class="bi bi-list"></i>
                         </a>
