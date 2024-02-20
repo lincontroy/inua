@@ -63,7 +63,7 @@
                                 <label class="label" for="email">Select Loan type </label>
                                 <select class="form-control" name="loantype">
                                     <option value="">====Select Loan type====</option>
-                                    <option value="Emergency mkopo">Emmergency mkopo</option>
+                                    <option value="Emergency mkopo">Emergency mkopo</option>
                                     <option value="Car mkopo">Car mkopo</option>
                                     <option value="Education mkopo">Education mkopo</option>       
                                     <option value="Rental mkopo">Rental mkopo</option>
