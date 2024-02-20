@@ -279,15 +279,15 @@
                                     <i class="bi bi-star-fill star-active"></i>
                                     <i class="bi bi-star-half star-active"></i>
                                 </div>
-                                <p class="text-start">Our satisfied clients have experienced success with our services and loan recommendations. Here are some of their testimonials highlighting their positive experiences and the value they received</p>
+                                <p class="text-start">Thanks to InuaHustler, I was able to secure a loan quickly and easily. Their process was seamless, and I received the funds I needed to grow my business. Highly recommended!</p>
                             </div>
                             <div class="testimonials__author">
                                 <div class="author__thumg">
-                                    <img src="assets/images/testimonials.png" alt="">
+                                    <img src="kimani.jpg" alt="" class="rounded-circle img-fluid">
                                 </div>
                                 <div class="author__content">
-                                    <h5 class="author__title">Balogh Imre</h5>
-                                    <p class="author__desi">Account Executive</p>
+                                    <h5 class="author__title">David Kimani</h5>
+                                    <p class="author__desi">Business owner</p>
                                 </div>
                             </div>
                         </div>
@@ -300,15 +300,15 @@
                                     <i class="bi bi-star-fill star-active"></i>
                                     <i class="bi bi-star-half star-active"></i>
                                 </div>
-                                <p class="text-start">Our satisfied clients have experienced success with our services and loan recommendations. Here are some of their testimonials highlighting their positive experiences and the value they received</p>
+                                <p class="text-start">InuaHustler has been a lifesaver for me. I needed capital to expand my small business, and they came through with competitive rates and excellent customer service. I'm grateful for their support</p>
                             </div>
                             <div class="testimonials__author">
                                 <div class="author__thumg">
-                                    <img src="assets/images/testimonials2.png" alt="">
+                                    <img src="omondi.jpg" alt="" class="rounded-circle img-fluid">
                                 </div>
                                 <div class="author__content">
-                                    <h5 class="author__title">Kende Attila</h5>
-                                    <p class="author__desi">President of Sales</p>
+                                    <h5 class="author__title">Peter omondi</h5>
+                                    <p class="author__desi">Student</p>
                                 </div>
                             </div>
                         </div>
@@ -321,15 +321,15 @@
                                     <i class="bi bi-star-fill star-active"></i>
                                     <i class="bi bi-star-half star-active"></i>
                                 </div>
-                                <p class="text-start">Our satisfied clients have experienced success with our services and loan recommendations. Here are some of their testimonials highlighting their positive experiences and the value they received</p>
+                                <p class="text-start">I was impressed by the professionalism and efficiency of InuaHustler. Their loan application process was straightforward, and I received the funds in no time. Thank you for helping me achieve my business goals!</p>
                             </div>
                             <div class="testimonials__author">
                                 <div class="author__thumg">
-                                    <img src="assets/images/testimonials3.png" alt="">
+                                    <img src="alice.jpg" alt="" class="rounded-circle img-fluid">
                                 </div>
                                 <div class="author__content">
-                                    <h5 class="author__title">Eleanor Pena</h5>
-                                    <p class="author__desi">Medical Assistant</p>
+                                    <h5 class="author__title">Alice Wangari</h5>
+                                    <p class="author__desi">Business Woman</p>
                                 </div>
                             </div>
                         </div>

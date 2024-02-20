@@ -20,4 +20,4 @@ Route::get('/', function () {
 Route::get('/register', 'App\Http\Controllers\UsersController@create')->name('register');
 Route::post('/register/post', 'App\Http\Controllers\UsersController@store')->name('store');
 
-Route::post('/loan', 'App\Http\Controllers\UsersController@loan')->name('store');
+Route::get('/loan', 'App\Http\Controllers\UsersController@loan')->name('loan');

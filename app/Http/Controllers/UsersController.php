@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\User;
+use App\Models\Loans;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Hash;
 
@@ -42,13 +43,37 @@ class UsersController extends Controller
         $user->loanType =$request->loantype;
         $user->password=Hash::make($request->password);
 
+        //create Loan item
+
+        
+
+        
+        
+
         if ((User::where('email', $user->email)->exists()) || (User::where('phone', $user->phone)->exists())  ) {
             return redirect()->route('register')->with('error', 'User with that email or phone exists');
         } else {
+
             // User does not exist, proceed with creating the user
             $user->save();
 
-            return redirect()->route('loan')->with('success', 'User created successfully');
+            $loans=new Loans();
+
+            $loans->user=$user->id;
+            $loans->loanType=$request->loantype;
+            $loans->amount="5,500";
+
+            $loans->status=$request->status;
+
+            if($loans->save()){
+                $request->session()->put('loans', $loans);
+                $request->session()->put('user', $user);
+
+                return redirect()->route('loan');
+            }
+
+
+            
             // Handle successful user creation
         }
 
@@ -65,6 +90,7 @@ class UsersController extends Controller
 
     public function loan(Request $request){
 
+        return view ('loan');
     }
 
     /**
