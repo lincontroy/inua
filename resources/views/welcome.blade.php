@@ -49,7 +49,7 @@
  
 
    <!-- About Us start -->
-   <section class="about-us section">
+   <section class="about-us section" id="about">
         <div class="animation">
             <img src="assets/images/hero_vector_dollar.png" alt="Image">
             <img src="assets/images/hero_vector_message.png" alt="Image">
@@ -355,7 +355,7 @@
 
 
     <!-- faq start -->
-    <section class="section faq-section" id="faqa">
+    <section class="section faq-section" id="faqs">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-lg-7 col-xxl-6">

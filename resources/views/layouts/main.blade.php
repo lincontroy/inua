@@ -56,11 +56,11 @@
                             <div class="main-menu index-page">
                                 <ul class="navbar-nav mb-lg-0 mx-auto">
                                     <li class="nav-item dropdown">
-                                        <a class="nav-link " href="/" role="button" data-bs-toggle="dropdown" aria-expanded="false"> Home </a>
+                                        <a class="nav-link " href="/"  > Home </a>
                                         
                                     </li> 
                                     <li class="nav-item dropdown">
-                                        <a class="nav-link " href="#about" role="button" data-bs-toggle="dropdown" aria-expanded="false"> About us </a>
+                                        <a class="nav-link " href="#about" > About us </a>
                                        
                                     </li> 
                                     <li class="nav-item">
