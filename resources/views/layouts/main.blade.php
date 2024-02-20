@@ -108,7 +108,7 @@
                                
                             </li>
                             <li class="menu_item dropdown">
-                                <a class="menu_link dropdown-toggle" href="/#bout"> Abouts us </a>
+                                <a class="menu_link dropdown-toggle" href="/#about"> Abouts us </a>
                                
                             </li>
                             <li class="menu_item">

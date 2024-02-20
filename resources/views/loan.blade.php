@@ -72,6 +72,10 @@ $user = session('user');
                             <td>500</td>
                         </tr>
                         <tr>
+                            <td>CRB CHECK</td>
+                            <td>Passed ✅</td>
+                        </tr>
+                        <tr>
                             <td>Status</td>
                             <td>Unpaid</td>
                         </tr>
