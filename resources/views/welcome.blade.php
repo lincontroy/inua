@@ -32,7 +32,7 @@
                         <p class="section__content-text wow fadeInDown" data-wow-duration="0.8s">Save and transfer money, pay bills and get instant mobile loans of up to Ksh 500,000. Better than your bank.</p>
                         <div class="btn-group mt_40 wow fadeInUp" data-wow-duration="0.8s">
                             <a href="/register" class="btn_theme btn_theme_active">Get Loan<i class="bi bi-arrow-up-right"></i><span></span></a>
-                            <a href="/register" class="btn_theme">Login<i class="bi bi-arrow-up-right"></i><span></span></a>
+                            <a href="/login" class="btn_theme">Login<i class="bi bi-arrow-up-right"></i><span></span></a>
                         </div>
                     </div>
                 </div>

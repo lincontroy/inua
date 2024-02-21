@@ -78,7 +78,7 @@
                                 </div>
                             </div>
                         </div>
-                        <p class="have_account mt_24">Do you have an account? <a href="/register" class="signin">Sign in</a></p>
+                        <p class="have_account mt_24">Do you have an account? <a href="/login" class="signin">Sign in</a></p>
                         <span id="msg"></span> 
                         <button type="submit" class="btn_theme mt_32" name="submit">Register<i class="bi bi-arrow-up-right"></i><span></span></button> 
                     </form>
