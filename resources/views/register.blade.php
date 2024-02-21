@@ -59,7 +59,7 @@
                                 <label class="label" for="email">Enter Your National Id </label>
                                 <input type="number" class="form-control" name="nationalId" id="national" placeholder="Enter Your National id..." required>
                             </div>
-                            <div class="input-single">
+                            <!-- <div class="input-single">
                                 <label class="label" for="email">Select Loan type </label>
                                 <select class="form-control" name="loantype">
                                     <option value="">====Select Loan type====</option>
@@ -69,7 +69,7 @@
                                     <option value="Rental mkopo">Rental mkopo</option>
                                     <option value="Business mkopo">Business mkopo</option>
                                 </select>
-                            </div>
+                            </div> -->
                             <div class="input-single">
                                 <label class="label" for="password">Enter Your Password</label>
                                 <div class="input-pass">

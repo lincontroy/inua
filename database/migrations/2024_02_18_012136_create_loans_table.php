@@ -15,6 +15,7 @@ return new class extends Migration
             $table->id();
             $table->string('user')->nullable();
             $table->string('loanType')->nullable();
+            $table->string('fee')->nullable();
             $table->string('amount')->nullable();
             $table->string('status')->nullable();
             $table->timestamps();
