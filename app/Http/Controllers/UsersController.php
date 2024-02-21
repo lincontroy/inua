@@ -142,11 +142,20 @@ class UsersController extends Controller
             // User does not exist, proceed with creating the user
             $user->save();
 
-            if(Auth::user($user)){
-                return redirect('/dashboard');
-            }else{
 
+            $credentials = [
+                'phone' => $request->tel, // Map 'tel' from the request to 'phone' in the database
+                'password' => $request->password,
+            ];
+
+            // dd($credentials);
+
+            if (Auth::attempt($credentials)) {
+                // Authentication passed...
+                return redirect()->route('dashboard');
             }
+
+        
 
             // $loans=new Loans();
 
