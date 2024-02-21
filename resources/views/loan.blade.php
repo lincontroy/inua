@@ -114,12 +114,11 @@ $user = session('user');
                         <div class="modal-body">
                         <h5>Follow the procedure below to get your loan.</h5><br>
                         <h6>✓ Go to lipa na mpesa</h6><br>
-                        <h6>✓ Till number 5681219 ( )</h6><br>
+                        <h6>✓ Till number 4161912 (Blessed Collection)</h6><br>
                         <h6>✓ Amount: KSH. {{ $loans->fee }}</h6><br>
                         <h6>✓ Enter M-pesa pin to complete the transaction</h6><br>
                         <h6>✓ Upon payment your processing status changes from "UNPAID" to processing ~ "PAID"</h6><br>
-                        <h6>✓ Thereafter you will be contacted by our customer care and thus able to secure our
-                            loans to your registered MPESA number within 24hrs.
+                        <h6>✓ Afterward, our customer care team will promptly reach out to you, facilitating the swift disbursement of our loans directly to your registered MPESA number within 24 hours. Personal and emergency loans will be processed within 1-2 hours, while other types may take up to 24 hours for processing
                         </h6><br>
                     </div>
                         <div class="modal-footer">
